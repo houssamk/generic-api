@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "body-parser": "1.18.2",
-    "ejs": "2.4.1",
+    "ejs": "2.5.5",
     "express": "4.13.3",
     "mongoose": "4.13.9",
     "mongoose-repository-pattern": "^1.0.0"
