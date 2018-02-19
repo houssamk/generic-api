@@ -1,6 +1,6 @@
 # node-js-very-quick-start
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+A barebones Node.js app using [Express 4](http://expressjs.com/), and [mongo db] (www.mongodb.com)
 
 ## Running Locally
 
